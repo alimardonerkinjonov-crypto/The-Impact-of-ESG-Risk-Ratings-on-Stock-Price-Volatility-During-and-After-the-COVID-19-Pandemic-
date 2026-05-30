@@ -1,0 +1,2 @@
+# The-Impact-of-ESG-Risk-Ratings-on-Stock-Price-Volatility-During-and-After-the-COVID-19-Pandemic-
+This study analyzes the impact of ESG risk ratings on stock price volatility across 57 S&amp;P 500 firms during and after the COVID-19 pandemic. Using a cross-sectional STATA regression, the project demonstrates that ESG risk ratings do not have a statistically significant link to stock price stability during global market crises.
